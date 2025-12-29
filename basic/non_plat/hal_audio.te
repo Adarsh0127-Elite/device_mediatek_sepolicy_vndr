@@ -1,0 +1,1 @@
+hal_attribute_service(hal_audio, mtk_hal_audio_service)
