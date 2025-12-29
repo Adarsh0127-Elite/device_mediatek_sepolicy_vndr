@@ -1,3 +1,4 @@
+type mtk_hal_audio_service, protected_service, service_manager_type, hal_service_type;
 type mtk_hal_aov_service, protected_service, service_manager_type, hal_service_type;
 type mtk_hal_atms_service, protected_service, service_manager_type, hal_service_type;
 type mtk_hal_bgs_service, protected_service, service_manager_type, hal_service_type;
